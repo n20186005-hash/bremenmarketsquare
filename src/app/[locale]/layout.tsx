@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://bremen-market-square.com';
+  const baseUrl = 'https://bremenmarketsquare.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;

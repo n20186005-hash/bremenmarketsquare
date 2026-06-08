@@ -1,7 +1,7 @@
 
 
 我们网站是
-
+bremenmarketsquare.com
 检查下有没有错误
 
 
@@ -69,6 +69,9 @@ J
 
 bremen-market-square
 
+bremenmarketsquare.com
+
+
 不来梅州	Bremen Market Square
 
 不来梅市场广场
@@ -84,9 +87,21 @@ Am Markt 2, 28195 Bremen, 德国
 
 https://maps.app.goo.gl/MNMKZRjaTAC3cVVp9
 
+国家/地区* (Country/Region*): 德国 (Germany)
+
+地址* (Address*): Am Markt 2
+
+地址 2 (Address 2): （可留空 / Leave blank）
+
+城市* (City*): 不来梅 (Bremen)
+
+省/自治区/直辖市* (State/Province/Municipality*): 不来梅州 (Bremen)
+
+邮政编码* (Postal/Zip Code*): 28195
+
 
 首屏背景图要引用以下
-C:\Users\Administrator\Documents\GitHub\德国\bremen-market-square\public\gallery\bremen-market-square (1).jpg
+C:\Users\Administrator\Documents\GitHub\bremen-market-square\public\gallery\bremen-market-square (1).jpg
 
 删除原先友情链接，新增以下友情链接
 
