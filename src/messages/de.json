@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "title": "Bremen Market Square | Bremer Marktplatz",
+    "description": "Entdecken Sie den vollständigen Reiseführer für den Bremer Marktplatz in Bremen, Deutschland."
+  },
+  "header": {
+    "home": "Startseite",
+    "gallery": "Galerie",
+    "reviews": "Bewertungen",
+    "map": "Karte",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "hero": {
+    "title": "Bremer Marktplatz",
+    "subtitle": "Bremen · Deutschland",
+    "rating": "4.7",
+    "reviewCount": "6.271",
+    "hours": "24 Stunden geöffnet",
+    "openMaps": "Standort ansehen"
+  },
+  "intro": {
+    "title": "Entdecken Sie den Bremer Marktplatz",
+    "description": "Der Bremer Marktplatz liegt im Herzen der Bremer Altstadt in Bremen, Deutschland. Er ist seit dem Mittelalter das zentrale Wahrzeichen der Stadt. Der Platz wird umgeben vom UNESCO-Weltkulturerbe Bremer Rathaus, dem Backsteingotischen St. Petri Dom und der Bremer Roland-Statue, die die Freiheit der Stadt symbolisiert. Als politisches, kommerzielles und kulturelles Zentrum Bremens bietet er nicht nur einen hohen historischen Wert, sondern auch den perfekten Ausgangspunkt, um den Charme norddeutscher Städte zu erleben.",
+    "visitGuide": {
+      "title": "Besuchertipps",
+      "items": [
+        "Kostenlos und ganztägig geöffnet, jederzeit für einen Rundgang oder Fotos geeignet",
+        "Früher Morgen oder späte Nachmittag werden für die beste Beleuchtung von Rathaus und Roland empfohlen",
+        "Der Platz ist Teil der Fußgängerzone Bremens, ideal für einen entspannten Spaziergang",
+        "Zahlreiche traditionelle deutsche Restaurants und Cafés in der Umgebung"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Weltkulturerbe: Das Bremer Rathaus ist eines der wichtigsten gotischen und renaissancezeitlichen Gebäude in Norddeutschland, seit 1993 UNESCO-Weltkulturerbe.",
+        "Freiheitssymbol: Die Bremer Roland-Statue steht vor dem Rathaus und symbolisiert die Freiheit und Rechte der Stadt, ein Wahrzeichen Bremens.",
+        "Zentrale Lage: In der Mitte der Bremer Altstadt gelegen, zu Fuß erreichbar bis zum Weserufer, St. Petri Dom und anderen Attraktionen."
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Entdecken Sie den Charme des Bremer Marktplatzes",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Geschichtliche Bedeutung",
+        "content": "Die Geschichte des Bremer Marktplatzes reicht bis ins Jahr 965 n. Chr. zurück. Das Rathaus wurde 1410 erbaut und hat mehrere Erweiterungen und Renovierungen erfahren. Es beherbergt bis heute den Bremer Stadtrat. Die Roland-Statue wurde 1404 errichtet, ist 5,5 Meter hoch und ein Symbol für Bremens Freiheit."
+      },
+      {
+        "id": "architecture",
+        "title": "Architektur",
+        "content": "Das Bremer Rathaus ist ein Meisterwerk, das einzigartige gotische und renaissancezeitliche Architektur in Norddeutschland verbindet. Seine prunkvolle Fassade und exquisite Verzierungen sind atemberaubend. Der Platz wird auch von wunderschönen niederländischen Giebelhäusern umgeben, die Bremens wohlhabende Geschichte als Hansestadt zeigen."
+      },
+      {
+        "id": "experience",
+        "title": "Erlebnis",
+        "content": "Der Marktplatz ist der beste Ort, um die urbane Atmosphäre Bremens zu erleben. Sie können in einem Café am Platz sitzen, die majestätische Architektur des Rathauses bewundern, der Carillon-Musik lauschen, die gelegentlich über den Platz erklingt, und den einzigartigen Charme dieser historischen Stadt spüren."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Grundinformationen",
+    "officialName": "Offizieller Name",
+    "officialNameValue": "Bremer Marktplatz",
+    "type": "Attraktionstyp",
+    "typeValue": "Touristenattraktion",
+    "country": "Land",
+    "countryValue": "Deutschland",
+    "city": "Stadt",
+    "cityValue": "Bremen",
+    "googleRating": "Google-Bewertung",
+    "address": "Adresse",
+    "addressValue": "Am Markt 2, 28195 Bremen, Deutschland",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "3RG4+7V Bremen Deutschland",
+    "phone": "Telefon",
+    "phoneValue": "+49421321676"
+  },
+  "hours": {
+    "title": "Öffnungszeiten",
+    "outdoor": "Gesamter Platz",
+    "outdoorTime": "Kostenlos und ganztägig geöffnet, keine kostenpflichtigen Innenbereiche, keine saisonalen Einschränkungen",
+    "lighthouse": "Nahegelegene Attraktionen",
+    "summer": "Innenbesichtigung Bremer Rathaus",
+    "summerTime": "In der Regel 10:00-16:30 Uhr (vorbehaltlich offizieller Ankündigungen des Rathauses)",
+    "winter": "St. Petri Dom",
+    "winterTime": "In der Regel 10:00-17:00 Uhr",
+    "warning": "Platzveranstaltungen & Märkte",
+    "warningTime": "Jeden Mittwoch und Samstag freier Markt, berühmter Weihnachtsmarkt während der Adventszeit",
+    "tip": "Frühe Morgenstunden und späte Nachmittage sind die friedlichsten Zeiten, perfekt für Spaziergänge und Fotografie"
+  },
+  "tickets": {
+    "title": "Ticketinformationen",
+    "outdoor": "Bremer Marktplatz",
+    "outdoorPrice": "Kostenlos ganztägig",
+    "lighthouse": "Nahegelegene kostenpflichtige Attraktionen",
+    "adults": "Geführte Tour durch das Bremer Rathaus",
+    "adultsPrice": "Erfordert ein Eintrittsticket, genaue Preise siehe offizielle Ankündigungen",
+    "students": "Nahegelegene Museen",
+    "studentsPrice": "Gebühren richten sich nach den Bestimmungen der jeweiligen Einrichtung",
+    "children": "Parkgebühren",
+    "childrenPrice": "Kostenpflichtige Parkplätze in der Altstadt verfügbar, 5-10 Gehminuten zum Marktplatz",
+    "card": "Verkehrs-Tipp",
+    "cardPrice": "Im Stadtzentrum gelegen, zu Fuß erreichbar zu nahegelegenen Gastronomie- und Einkaufsmöglichkeiten"
+  },
+  "transport": {
+    "title": "Verkehrsmittel",
+    "airport": "Vom Flughafen",
+    "airportDesc": "Nächster Flughafen: Flughafen Bremen (BRE) (ca. 3,5 km, 15 Minuten Fahrt). Vom Flughafen können Sie die Straßenbahn oder ein Taxi zum Stadtzentrum nehmen.",
+    "selfDrive": "Mit dem Auto",
+    "selfDriveDesc": "Bremen liegt am Kreuzungspunkt der Autobahnen A1 und A27, mit guter Verkehrsanbindung. Es wird empfohlen, in öffentlichen Parkhäusern in der Altstadt zu parken, z.B. in der Nähe der Obernstraße oder Sögestraße.",
+    "bus": "Öffentliche Verkehrsmittel",
+    "busDesc": "Der Bremer Hauptbahnhof ist etwa 1 km vom Marktplatz entfernt, etwa 10 Minuten zu Fuß oder 2 Minuten mit der Straßenbahn.",
+    "intercity": "Nahverkehr",
+    "intercityDesc": "Attraktionen in der Bremer Altstadt sind eng beieinander; vom Marktplatz aus können Sie zum Weserufer, St. Petri Dom und der berühmten Beck's Brauerei laufen.",
+    "cycling": "Fahrrad",
+    "cyclingDesc": "Bremen ist eine fahrradfreundliche Stadt in Deutschland mit gut ausgebauten Fahrradwegen in der Altstadt und Umgebung.",
+    "tips": "Reisetipps",
+    "tipsDesc": "Bremen liegt in Nordwestdeutschland und ist eine der Hansestädte. Nahegelegene berühmte Städte sind Hamburg und Münster, was es zu einem hervorragenden Ausgangspunkt für die Erkundung Norddeutschlands macht."
+  },
+  "route": {
+    "title": "Besuchsroute",
+    "overview": "Bremer Altstadt Fußgängerroute",
+    "steps": [
+      "Kommen Sie am Bremer Marktplatz an und bewundern Sie das Rathaus und die Roland-Statue",
+      "Besuchen Sie das Bremer Rathaus und erleben Sie den architektonischen Charme dieser Weltkulturerbe-Stätte",
+      "Besuchen Sie den St. Petri Dom und lernen Sie die religiöse Geschichte Bremens kennen",
+      "Schlendern Sie durch die umliegenden Gassen (Böttcherstraße) und bewundern Sie die exquisiten Architekturen und Kunstwerke",
+      "Gehen Sie zum Weserufer (Schlachte) und genießen Sie den Flussblick und das Essen",
+      "Probieren Sie in der Altstadt traditionelles deutsches Schweinshaxe, Würstchen und lokales Bier (Beck's)"
+    ],
+    "supplements": [
+      "Der Marktplatz ist ein öffentlicher Raum, kostenlos und ganztägig geöffnet, keine Reservierung erforderlich",
+      "Parkplätze in der Altstadt sind begrenzt, es wird empfohlen, in ausgewiesenen öffentlichen Parkhäusern zu parken",
+      "Innenbesichtigungen des Bremer Rathauses erfordern eine geführte Tour, es wird empfohlen, den Zeitplan im Voraus zu prüfen"
+    ],
+    "supplementsTitle": "Besuchsnotizen"
+  },
+  "photoSpots": {
+    "title": "Fotospots",
+    "spots": [
+      {
+        "name": "Rathaus-Fassade",
+        "desc": "Fangen Sie die prunkvolle gotische und renaissancezeitliche Fassade des Rathauses ein"
+      },
+      {
+        "name": "Roland-Statue",
+        "desc": "Fangen Sie die Roland-Statue ein, die Bremens Freiheit symbolisiert, mit dem majestätischen Rathaus im Hintergrund"
+      },
+      {
+        "name": "St. Petri Dom",
+        "desc": "Blicken Sie vom Platz aus auf die majestätische Architektur des St. Petri Doms"
+      },
+      {
+        "name": "Niederländische Giebelhäuser",
+        "desc": "Fangen Sie die wunderschönen niederländischen Giebelhäuser rund um den Platz ein"
+      }
+    ],
+    "tips": "Fotografie-Tipps",
+    "tipsContent": "Morgendliches Sonnenlicht auf der Fassade des Rathauses schafft die beste Beleuchtung für Fotografie auf dem Marktplatz."
+  },
+  "hotels": {
+    "title": "Unterkunftsempfehlungen",
+    "hotels": [
+      {
+        "name": "Boutique-Hotels in der Stadtmitte",
+        "desc": "Nur Schritte vom Marktplatz entfernt, extrem bequem",
+        "price": "Ideal für diejenigen, die einen städtischen Vibe mögen"
+      },
+      {
+        "name": "Gemütliche Apartments am Weserufer",
+        "desc": "Angrenzend an das Weserufer, mit Küchen ausgestattet, umgeben von Restaurants und Supermärkten",
+        "price": "Großartig für Familien oder Langzeitaufenthalte"
+      },
+      {
+        "name": "Resort-Hotels in nahegelegenen Städten",
+        "desc": "Etwa 30 Autominuten von Bremen entfernt, bieten die ruhige Naturlandschaft Norddeutschlands",
+        "price": "Perfekt für Autofahrer, die ein Urlaubserlebnis suchen"
+      }
+    ],
+    "supplements": "Unterkunftshinweise",
+    "supplementsTitle": "Lokale Küche"
+  },
+  "gallery": {
+    "title": "Atemberaubende Fotos",
+    "subtitle": "Reizvolle Landschaft des Bremer Marktplatzes",
+    "captions": [
+      "Rathaus-Panorama",
+      "Roland-Statue",
+      "St. Petri Dom",
+      "Platz-Luftaufnahme",
+      "Rathaus-Details",
+      "Niederländische Architektur",
+      "Platzmarkt",
+      "Weihnachtsmarkt",
+      "Rathaus bei Nacht",
+      "Platzbrunnen",
+      "Alte Pflastersteine",
+      "Rathaus-Eingang",
+      "Platzbesucher",
+      "Architektonische Skulpturen",
+      "Platzcafé",
+      "Rathaus-Carillon",
+      "Platz-Panorama",
+      "Roland-Statue Details",
+      "Rathaus-Innenbereich",
+      "Umgebende Gassen",
+      "Platzveranstaltungen",
+      "Winterlicher Platz",
+      "Platzsonnenuntergang"
+    ],
+    "viewAll": "Weitere Fotos auf Google Maps ansehen",
+    "showAllPhotos": "Alle Fotos anzeigen"
+  },
+  "reviews": {
+    "title": "Besucherbewertungen",
+    "declaration": "Bewertungsinformationen können über Google Maps eingesehen werden (externer Link).",
+    "moreReviews": "Weitere Bewertungen auf Google Maps ansehen",
+    "items": [
+      {
+        "name": "Hans Müller",
+        "date": "vor 2 Monaten",
+        "rating": 5,
+        "text": "Ein fantastischer historischer Platz! Die Architektur des Rathauses ist atemberaubend, und die Roland-Statue ist voller Geschichte. Dies ist der beste Ort, um die Seele Bremens zu spüren. Sehr empfehlenswert."
+      },
+      {
+        "name": "Anna Schmidt",
+        "date": "vor 1 Monat",
+        "rating": 5,
+        "text": "Eines der schönsten Wahrzeichen Bremens! Die historischen Gebäude rund um den Platz sind atemberaubend. Seien Sie jedoch vorsichtig, der Weihnachtsmarkt ist sehr überfüllt, versuchen Sie, die Stoßzeiten zu vermeiden."
+      },
+      {
+        "name": "Michael Weber",
+        "date": "vor 3 Monaten",
+        "rating": 4,
+        "text": "Ein erstaunlicher Ort. Der Platz ist nicht riesig, aber die umgebende Architektur ist exquisit. Habe in einem Restaurant am Platz ein großartiges traditionelles deutsches Essen gehabt. Das einzige Problem ist, dass Parken nicht sehr bequem ist."
+      },
+      {
+        "name": "Sophie Fischer",
+        "date": "vor über 6 Monaten",
+        "rating": 5,
+        "text": "Ein sehr romantischer und charmantes Ort. Wir sind hier spazieren gegangen, und die Nachtsicht des Rathauses ist absolut atemberaubend. Habe mich völlig darin verliebt!"
+      },
+      {
+        "name": "Lukas Schneider",
+        "date": "vor 1 Jahr",
+        "rating": 5,
+        "text": "Die Landschaft hier hebt wirklich die Stimmung. Man kann das exquisite Rathaus und die alte Kirche zusammenfließen sehen. Der Platz selbst ist charmant mit vielen Cafés in der Umgebung."
+      },
+      {
+        "name": "Laura Wagner",
+        "date": "vor über 6 Monaten",
+        "rating": 4,
+        "text": "Ein Besuch lohnt sich! Es ist sehr einfach, hier vom Bremer Hauptbahnhof zu Fuß zu gehen. Empfehlen Sie flache Schuhe wegen der Pflastersteinwege. Einheimische sind freundlich, großartige FotosSpots."
+      },
+      {
+        "name": "Tim Becker",
+        "date": "vor 3 Monaten",
+        "rating": 5,
+        "text": "Fühlt sich an wie eine Reise zurück in der Zeit! Jeder Stein und jede Skulptur hat seine Geschichte. Im Café am Platz zu sitzen und Menschen zu beobachten, lässt die Zeit stillstehen. Ein Muss in Bremen."
+      },
+      {
+        "name": "Julia Hoffmann",
+        "date": "vor 2 Monaten",
+        "rating": 5,
+        "text": "Wunderschön über Worte. Ob die Architektur des Rathauses oder die umliegenden historischen Viertel, man möchte nicht mehr weg. Sehr empfehlenswert ist die geführte Tour durch das Rathaus-Innere. Obwohl es eine Eintrittsgebühr gibt, ist es jeden Cent wert."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Verkehrsführer",
+    "subtitle": "Am Markt 2, 28195 Bremen, Deutschland",
+    "openMaps": "Auf Google Maps ansehen"
+  },
+  "footer": {
+    "rights": "© 2026 Bremer Marktplatz. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Einstellungen",
+    "officialResourcesTitle": "Verwandte Ressourcen & Informationen",
+    "officialLinks": {
+      "germany_travel": {
+        "name": "Deutsche Zentrale für Tourismus",
+        "url": "https://www.germany.travel/en/home.html"
+      },
+      "digital_library": {
+        "name": "Deutsche Digitale Bibliothek",
+        "url": "https://www.deutsche-digitale-bibliothek.de/"
+      },
+      "bundesregierung": {
+        "name": "Bundesregierung",
+        "url": "https://www.bundesregierung.de/breg-de"
+      },
+      "bremen_tourism": {
+        "name": "Bremen Tourismus",
+        "url": "https://www.bremen.eu/"
+      },
+      "bremen_denkmal": {
+        "name": "Denkmalschutz und Archäologie Bremen",
+        "url": "https://www.denkmalpflege.bremen.de/"
+      },
+      "bremen_city": {
+        "name": "Stadt Bremen",
+        "url": "https://www.bremen.de/"
+      },
+      "auswaertiges": {
+        "name": "Auswärtiges Amt",
+        "url": "https://www.auswaertiges-amt.de/"
+      }
+    },
+    "disclaimer": "Diese Website ist ein unabhängiges Reiseinformationsprojekt von Dritten. Wir haben keine Verbindung zur lokalen Regierung oder anderen offiziellen Einrichtungen."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert: Juni 2026",
+    "sections": [
+      {
+        "heading": "1. Informationen, die wir sammeln",
+        "content": "Wir sammeln nur die minimal notwendigen Daten, um unsere Dienste bereitzustellen. Diese Daten können umfassen: Browserdaten (IP-Adresse, Browsertyp, besuchte Seiten), Cookies und ähnliche Technologien sowie alle Informationen, die Sie freiwillig über Kontaktformulare oder E-Mail bereitstellen."
+      },
+      {
+        "heading": "2. Wie wir Ihre Informationen verwenden",
+        "content": "Wir verwenden die gesammelten Informationen, um: Website-Inhalte und Benutzererfahrung zu verbessern, Verkehrs- und Nutzungsmuster zu analysieren, auf Anfragen zu antworten und unseren gesetzlichen Verpflichtungen nachzukommen."
+      },
+      {
+        "heading": "3. Drittpartei-Dienste",
+        "content": "Unsere Website kann Drittpartei-Dienste verwenden, wie Google Maps (für eingebettete Karten und Standortdaten), Google Analytics (für Verkehrsanalyse) und Unsplash (für Bilder). Diese Dienste haben ihre eigenen Datenschutzrichtlinien."
+      },
+      {
+        "heading": "4. Ihre Rechte",
+        "content": "Gemäß der Datenschutz-Grundverordnung (DSGVO) und verwandten Vorschriften haben Sie das Recht auf: Zugang zu Ihren personenbezogenen Daten, Berichtigung oder Löschung zu verlangen, der Verarbeitung zu widersprechen und eine Beschwerde bei einer Aufsichtsbehörde einzureichen."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: Juni 2026",
+    "sections": [
+      {
+        "heading": "1. Annahme der Bedingungen",
+        "content": "Durch den Zugriff auf und die Nutzung dieser Website stimmen Sie der Einhaltung dieser Nutzungsbedingungen zu."
+      },
+      {
+        "heading": "2. Nutzung von Inhalten",
+        "content": "Alle Inhalte auf dieser Website dienen nur Informationszwecken. Wir sind eine unabhängige Reiseinformations-Website von Dritten und nicht verbunden mit touristischen Attraktionen, Regierungsbehörden oder kommerziellen Betreibern."
+      },
+      {
+        "heading": "3. Genauigkeit der Informationen",
+        "content": "Wir bemühen uns, genaue und zeitnahe Informationen bereitzustellen, können aber die Vollständigkeit oder Genauigkeit nicht garantieren. Reisepläne, Bedingungen und Dienstleistungen können sich ohne vorherige Ankündigung ändern. Bitte verifizieren Sie wichtige Informationen vor Reiseantritt über offizielle Kanäle."
+      },
+      {
+        "heading": "4. Geistiges Eigentum",
+        "content": "Das Design und die Originalinhalte dieser Website sind urheberrechtlich geschützt. Bilder stammen von Unsplash und werden unter Lizenz verwendet. Die Nutzung von Google Maps-Daten entspricht den Nutzungsbedingungen von Google."
+      },
+      {
+        "heading": "5. Haftungsausschluss",
+        "content": "Diese Website wird \"wie besehen\" ohne jegliche Gewährleistung bereitgestellt. Wir haften nicht für Verluste, die durch die Nutzung der Informationen auf dieser Website entstehen, einschließlich, aber nicht beschränkt auf Reiseentscheidungen, die auf deren Inhalt basieren."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie-Einstellungen",
+    "description": "Zuletzt aktualisiert: Juni 2026\n\nWir verwenden Cookies, um Ihre Browsing-Erfahrung zu verbessern. Sie können Ihre Einstellungen unten verwalten.",
+    "essential": {
+      "title": "Notwendige Cookies",
+      "description": "Diese Cookies sind für das einwandfreie Funktionieren der Website unerlässlich und können nicht deaktiviert werden.",
+      "badge": "Immer aktiv"
+    },
+    "analytics": {
+      "title": "Analyse-Cookies",
+      "description": "Sie helfen uns zu verstehen, wie Besucher mit unserer Website interagieren, indem sie anonyme Nutzungsdaten sammeln.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Aktiv",
+          "description": "Es sammelt anonyme Informationen darüber, wie Besucher unsere Website nutzen."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing-Cookies",
+      "description": "Sie werden verwendet, um relevante Anzeigen zu schalten und die Effektivität von Anzeigenkampagnen zu messen.",
+      "items": [
+        {
+          "name": "Personalisierte Anzeigen",
+          "status": "Inaktiv",
+          "description": "Es kann Ihnen relevante Anzeigen basierend auf Ihren Interessen zeigen."
+        }
+      ]
+    },
+    "save": "Einstellungen speichern",
+    "saved": "Einstellungen gespeichert!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Benutzerpräferenzen",
+          "status": "Aktiv",
+          "description": "Speichert Ihre Sprachpräferenzen und Website-Einstellungen."
+        }
+      ],
+      "title": "Präferenz-Cookies",
+      "description": "Sie merken sich Ihre Einstellungen, wie Sprach- und Designpräferenzen."
+    },
+    "consentManagement": "Zustimmungsverwaltung: Sie können Ihre Cookie-Einstellungen jederzeit ändern. Bitte beachten Sie, dass das Deaktivieren bestimmter Cookies die Funktionalität der Website beeinträchtigen kann.",
+    "rejectAll": "Alle ablehnen"
+  },
+  "officialManagement": {
+    "title": "Über den Bremer Marktplatz",
+    "text": "Der Bremer Marktplatz ist ein wichtiges historisches Wahrzeichen im Zentrum Bremens, das von der Stadt Bremen verwaltet und erhalten wird."
+  }
+}
