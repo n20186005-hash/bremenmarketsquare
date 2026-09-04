@@ -6,10 +6,25 @@ export default function Intro() {
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const geoBreadcrumb: string[] = messages?.intro?.geoBreadcrumb || [];
 
   return (
     <section className="section-padding">
       <div className="max-w-4xl mx-auto">
+        {geoBreadcrumb.length > 0 && (
+          <nav aria-label="Breadcrumb" className="mb-6">
+            <ol className="flex flex-wrap items-center gap-x-2 gap-y-1 text-xs" style={{ color: 'var(--text-muted)' }}>
+              {geoBreadcrumb.map((crumb, i) => (
+                <li key={i} className="flex items-center gap-2">
+                  {i > 0 && (
+                    <span aria-hidden="true" style={{ color: 'var(--accent)' }}>›</span>
+                  )}
+                  <span>{crumb}</span>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )}
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}

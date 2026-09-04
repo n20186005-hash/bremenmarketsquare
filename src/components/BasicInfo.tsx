@@ -2,6 +2,9 @@
 
 import { useTranslations } from 'next-intl';
 
+const GMAPS_LINK = 'https://maps.app.goo.gl/MNMKZRjaTAC3cVVp9';
+const TEL_LINK = 'tel:+49421321676';
+
 export default function BasicInfo() {
   const t = useTranslations('basicInfo');
   const tHero = useTranslations('hero');
@@ -23,10 +26,10 @@ export default function BasicInfo() {
           <InfoCard title={t('country')} value={t('countryValue')} />
           <InfoCard title={t('city')} value={t('cityValue')} />
           <InfoCard title={t('plusCode')} value={t('plusCodeValue')} />
-          <InfoCard title={t('phone')} value={t('phoneValue')} />
+          <InfoCard title={t('phone')} value={t('phoneValue')} href={TEL_LINK} />
           <InfoCard title={t('googleRating')} value={`${tHero('rating')}/5 (${tHero('reviewCount')})`} />
           <div className="md:col-span-3">
-            <InfoCard title={t('address')} value={t('addressValue')} />
+            <InfoCard title={t('address')} value={t('addressValue')} href={GMAPS_LINK} external />
           </div>
         </div>
       </div>
@@ -34,14 +37,36 @@ export default function BasicInfo() {
   );
 }
 
-function InfoCard({ title, value }: { title: string; value: string }) {
+function InfoCard({
+  title,
+  value,
+  href,
+  external = false,
+}: {
+  title: string;
+  value: string;
+  href?: string;
+  external?: boolean;
+}) {
   return (
     <div
       className="rounded-xl p-5"
       style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
     >
       <p className="text-sm mb-1" style={{ color: 'var(--text-muted)' }}>{title}</p>
-      <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{value}</p>
+      {href ? (
+        <a
+          href={href}
+          target={external ? '_blank' : undefined}
+          rel={external ? 'noopener noreferrer' : undefined}
+          className="font-medium underline-offset-2 hover:underline"
+          style={{ color: 'var(--accent)' }}
+        >
+          {value}
+        </a>
+      ) : (
+        <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{value}</p>
+      )}
     </div>
   );
 }

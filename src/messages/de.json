@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Bremen Market Square | Bremer Marktplatz",
-    "description": "Entdecken Sie den vollständigen Reiseführer für den Bremer Marktplatz in Bremen, Deutschland."
+    "title": "Bremer Marktplatz (Bremen) - Reisef眉hrer, Karte & Tipps",
+    "description": "Entdecken Sie den Bremer Marktplatz in Bremen: UNESCO-Welterbe Rathaus & Roland, Weihnachtsmarkt, Fotos, Karte, Service-Informationen & Reisetipps f眉r 2026."
   },
   "header": {
     "home": "Startseite",
@@ -14,9 +14,10 @@
     "title": "Bremer Marktplatz",
     "subtitle": "Bremen · Deutschland",
     "rating": "4.7",
-    "reviewCount": "6.271",
+    "reviewCount": "6.489",
     "hours": "24 Stunden geöffnet",
-    "openMaps": "Standort ansehen"
+    "openMaps": "Standort ansehen",
+    "imageAlt": "Bremer Marktplatz mit dem Rathaus in Bremen, Deutschland"
   },
   "intro": {
     "title": "Entdecken Sie den Bremer Marktplatz",
@@ -33,11 +34,40 @@
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Weltkulturerbe: Das Bremer Rathaus ist eines der wichtigsten gotischen und renaissancezeitlichen Gebäude in Norddeutschland, seit 1993 UNESCO-Weltkulturerbe.",
+        "Weltkulturerbe: Das Bremer Rathaus ist eines der wichtigsten gotischen und renaissancezeitlichen Gebäude in Norddeutschland, seit 2004 UNESCO-Weltkulturerbe.",
         "Freiheitssymbol: Die Bremer Roland-Statue steht vor dem Rathaus und symbolisiert die Freiheit und Rechte der Stadt, ein Wahrzeichen Bremens.",
-        "Zentrale Lage: In der Mitte der Bremer Altstadt gelegen, zu Fuß erreichbar bis zum Weserufer, St. Petri Dom und anderen Attraktionen."
+        "Zentrale Lage: In der Mitte der Bremer Altstadt gelegen, zu Fuß erreichbar bis zum Weserufer, St. Petri Dom und anderen Attraktionen.",
+        "Weiter entdecken: nur wenige Schritte entfernt liegen das Denkmal der Bremer Stadtmusikanten, die expressionistische Böttcherstraße und das historische Schnoor-Viertel."
       ]
-    }
+    },
+    "geoBreadcrumb": [
+      "Bremer Marktplatz",
+      "Bremen",
+      "Freie Hansestadt Bremen",
+      "Deutschland"
+    ]
+  },
+  "highlights": {
+    "title": "Die Highlights des Bremer Marktplatzes",
+    "lead": "Vier Wahrzeichen machen den Bremer Marktplatz zu einem der lohnendsten Stadtplätze Deutschlands. Darauf sollten Sie bei Ihrem Besuch achten:",
+    "items": [
+      {
+        "title": "Bremer Rathaus & Roland-Statue (UNESCO-Weltkulturerbe)",
+        "content": "Auf der Ostseite des Bremer Marktplatzes steht das Rathaus, das zwischen 1405 und 1410 erbaut wurde und als eines der bedeutendsten gotischen und Weser-Renaissance-Gebäude Norddeutschlands gilt. Vor seiner prunkvoll verzierten Fassade erhebt sich die 5,5 Meter hohe Roland-Statue von 1404, das älteste erhaltene freistehende Standbild seiner Art in Deutschland und ein Symbol für die der Stadt verliehenen Markt- und Handelsfreiheiten. Rathaus und Roland wurden gemeinsam 2004 in die UNESCO-Welterbeliste aufgenommen. Das Rathaus ist bis heute Sitz der Bremer Regierung – bei einer Führung können Sie den historischen Oberen Saal und die prachtvolle Güldenkammer bewundern."
+      },
+      {
+        "title": "St. Petri Dom",
+        "content": "Die beiden Türme des St. Petri Doms bilden den nordöstlichen Abschluss des Platzes. Die heutige Backsteinbasilika entstand über fünf Jahrhunderte an der Stelle einer Holzkirche aus dem 9. Jahrhundert; romanische Gewölbe und gotischer Chor können kostenlos besichtigt werden. Lassen Sie sich den berühmten Bleikeller nicht entgehen, der für seine natürlich mumifizierten Leichen bekannt ist. Wer möchte, besteigt den Südturm und genießt einen Panoramablick über die roten Dächer der Altstadt."
+      },
+      {
+        "title": "Die Bremer Stadtmusikanten",
+        "content": "Seit 1953 steht die Bronzeskulptur von Gerhard Marcks mit Esel, Hund, Katze und Hahn aus dem Märchen der Gebrüder Grimm am westlichen Ende des Rathauses. Sie ist eines der meistfotografierten Wahrzeichen Bremens – dem Volksglauben nach bringt es Glück, dem Esel Nase und Vorderhufe zu reiben. Rechnen Sie also mit einer kleinen Warteschlange. Die Figur ist außerdem der ideale Ausgangspunkt für einen märchenhaften Rundgang durch die Altstadt."
+      },
+      {
+        "title": "Bremer Weihnachtsmarkt",
+        "content": "Jedes Jahr ab Ende November verwandelt sich der Bremer Marktplatz in einen der beliebtesten Weihnachtsmärkte Deutschlands: Mehr als 170 festlich geschmückte Stände reihen sich rund um Rathaus, Roland-Statue und Dom. Unter den Giebelhäusern lässt sich die Adventszeit bei Glühwein, gebrannten Mandeln und Live-Chören genießen. Der Markt dauert in der Regel bis zum 23. Dezember; an der Schlachte am Weserufer schließt sich eine zweite Festmeile mit Ständen und Imbissen an."
+      }
+    ]
   },
   "knowledge": {
     "title": "Entdecken Sie den Charme des Bremer Marktplatzes",
@@ -59,6 +89,117 @@
       }
     ]
   },
+  "weather": {
+    "title": "Wetter in Bremen: Heute & 7-Tage-Vorhersage",
+    "subtitle": "Aktuelle Wetteraussichten für die Bremer Innenstadt - hilfreich für die Planung Ihres Tages rund um den Bremer Marktplatz.",
+    "current": "Gerade jetzt am Platz",
+    "today": "Heute",
+    "tomorrow": "Morgen",
+    "feelsLike": "Gefühlt",
+    "wind": "Wind",
+    "humidity": "Luftfeuchtigkeit",
+    "precipitation": "Niederschlag",
+    "forecast": "7-Tage-Ausblick",
+    "high": "Max",
+    "low": "Min",
+    "precipChance": "Regenrisiko",
+    "updated": "Datenstand:",
+    "unavailable": "Die Wetterdaten sind momentan nicht verfügbar. Bitte prüfen Sie vor Ihrem Besuch einen regionalen Wetterbericht.",
+    "codes": {
+      "0": "Klarer Himmel",
+      "1": "Überwiegend klar",
+      "2": "Teilweise bewölkt",
+      "3": "Bedeckt",
+      "45": "Nebel",
+      "48": "Gefrierender Nebel",
+      "51": "Leichter Nieselregen",
+      "53": "Nieselregen",
+      "55": "Starker Nieselregen",
+      "56": "Gefrierender Nieselregen",
+      "57": "Gefrierender Nieselregen",
+      "61": "Leichter Regen",
+      "63": "Regen",
+      "65": "Starker Regen",
+      "66": "Gefrierender Regen",
+      "67": "Gefrierender Regen",
+      "71": "Leichter Schneefall",
+      "73": "Schneefall",
+      "75": "Starker Schneefall",
+      "77": "Schneegriesel",
+      "80": "Leichte Regenschauer",
+      "81": "Regenschauer",
+      "82": "Kräftige Regenschauer",
+      "85": "Leichte Schneeschauer",
+      "86": "Schneeschauer",
+      "95": "Gewitter",
+      "96": "Gewitter mit Hagel",
+      "99": "Gewitter mit starkem Hagel"
+    }
+  },
+  "facilities": {
+    "title": "Praktische Informationen für Besucher",
+    "lead": "Alles, was Sie vor dem Besuch des Platzes meist wissen möchten - Einrichtungen, Kosten und lokale Gepflogenheiten. Wir nennen Typen und typische Optionen, keine konkreten Geschäfte.",
+    "items": [
+      {
+        "id": "toilets",
+        "title": "Öffentliche Toiletten (WC)",
+        "content": "Direkt auf dem Platz selbst gibt es keine öffentlichen Toiletten. In wenigen Gehminuten finden Sie sie jedoch: im Bereich des Hauptbahnhofs, in größeren Einkaufszentren sowie an einigen Straßenbahn-Haltestellen. In Deutschland sind viele öffentliche WCs münzbetrieben (rund 0,50-1,00 Euro). Cafés und Restaurants am Platz stellen ihre Toiletten in der Regel ihren Gästen zur Verfügung."
+      },
+      {
+        "id": "parking",
+        "title": "Parken & Parkhäuser",
+        "content": "Die Altstadt rund um den Platz ist weitgehend autofrei. Am einfachsten parken Sie in einem öffentlichen Parkhaus am Rand der Altstadt und laufen 5-10 Minuten zum Platz. Parkplätze auf der Straße sind knapp und gebührenpflichtig. Parkhäuser kosten üblicherweise etwa 1-2 Euro pro Stunde; Park-and-Ride-Plätze am Stadtrand sind oft günstiger. Viele Parkhäuser bieten inzwischen auch Ladepunkte für Elektroautos."
+      },
+      {
+        "id": "dining",
+        "title": "Restaurants & Gastronomie",
+        "content": "Auf und um den Platz finden Sie traditionelle norddeutsche Restaurants, historische Gewölbegaststätten, Cafés und Bäckereien sowie einfache Imbissstände. Typisch für Bremen sind Labskaus, Knipp und im Winter Grünkohl mit Pinkel. Die Portionen sind großzügig, vegetarische Optionen sind weit verbreitet. An Wochenendabenden und während des Weihnachtsmarktes sind die Tische schnell belegt - in der Saison ist eine Reservierung empfehlenswert."
+      },
+      {
+        "id": "accommodation",
+        "title": "Übernachtungsmöglichkeiten",
+        "content": "Für einen kurzen Besuch empfiehlt sich eine Unterkunft in Gehweite zur Altstadt: historische Hotels in der City, Design- und Businesshotels, Pensionen, Ferienwohnungen oder Hostels. Eine praktische Alternative ist die Gegend um den Hauptbahnhof - von dort sind es etwa 10 Minuten zu Fuß oder mit der Straßenbahn. Während des Weihnachtsmarktes und bei großen Veranstaltungen steigen die Preise spürbar, daher lohnt sich eine frühe Buchung."
+      },
+      {
+        "id": "shopping",
+        "title": "Supermärkte & Einkaufen",
+        "content": "Geschäfte in der Altstadt haben in der Regel montags bis samstags geöffnet (Supermärkte oft bis etwa 20-22 Uhr, kleinere Läden meist bis 18-20 Uhr); an Sonn- und Feiertagen sind die meisten Geschäfte geschlossen. Für Lebensmittel und Alltagsbedarf finden Sie Supermärkte und Drogeriemärkte an den Haupteinkaufsstraßen rund um den Platz. Ein Wochenmarkt mit regionalen Produkten findet an den meisten Wochentagen vormittags auf dem benachbarten Domshof statt, direkt hinter dem Dom."
+      },
+      {
+        "id": "fuel",
+        "title": "Tanken & Laden",
+        "content": "In der autofreien Altstadt gibt es keine Tankstellen; die nächsten liegen an der Ringstraße und den Hauptzufahrtsstraßen, etwa 5-10 Autominuten entfernt. Mit dem Elektroauto finden Sie Ladepunkte in vielen öffentlichen Parkhäusern sowie an einigen Straßenladestationen in der Stadt; Schnelllade- und Batterietausch-Hubs befinden sich vor allem an größeren Verkehrsknoten außerhalb des Zentrums. Planen Sie Tanken oder Laden vor dem mittelalterlichen Kern - viele Straßen dort sind für Autos gesperrt."
+      }
+    ],
+    "note": "Bitte beachten Sie: Preise und Öffnungszeiten ändern sich im Laufe der Zeit. Prüfen Sie vor der Reise die offiziellen Informationen der Stadt - diese Seite gibt nur allgemeine Hinweise."
+  },
+  "story": {
+    "title": "Geschichte, Hintergründe & Legenden",
+    "lead": "Mehr als tausend Jahre Bremer Geschichte haben ihre Spuren auf und um diesen Platz hinterlassen. Ein wenig Hintergrundwissen macht aus einem Spaziergang über das Kopfsteinpflaster eine Reise durch die Zeit.",
+    "items": [
+      {
+        "title": "Von den Marktrechten zur Hansestadt",
+        "content": "Im Jahr 965 verlieh der ostfränkische Herrscher Otto I. Bremen das Recht, einen Markt abzuhalten - das Fundament, auf dem der heutige Platz wuchs. Die Siedlung an der Weser entwickelte sich zu einer bedeutenden Handelsstadt und gehörte ab dem 14. Jahrhundert der Hanse an; deren Kaufleute errichteten die Giebelhäuser, die den Platz bis heute säumen. Das heutige Rathaus wurde zwischen 1405 und 1410 erbaut und ist seither Sitz der Bremer Regierung - es gehört damit zu den ältesten noch politisch genutzten Rathäusern Deutschlands."
+      },
+      {
+        "title": "Die Roland-Statue und die Legende von Bremens Freiheit",
+        "content": "Seit 1404 steht die Statue des sagenhaften Ritters Roland vor dem Rathaus. Roland - der Sage nach ein Neffe Karls des Großen - war im Mittelalter zum Sinnbild der bürgerlichen Rechte geworden: ein Held, der für die Freiheit der Bürger eintrat. Mit gezogenem Schwert wacht er über den Platz; eine Bremer Redensart besagt: Solange der Roland steht, bleibt die Stadt frei. Die Figur selbst ist rund 5,5 Meter hoch; mit ihrem Baldachin erreicht das Denkmal rund 10 Meter. Seit 2004 gehören Roland und Rathaus gemeinsam zum UNESCO-Welterbe."
+      },
+      {
+        "title": "Das Rathaus - Fassade, Säle und ein alter Weinkeller",
+        "content": "Hinter der reich verzierten gotischen und Weser-Renaissance-Fassade verbergen sich zwei Höhepunkte, die meist nur bei einer Führung zu sehen sind: die historische Obere Halle, in der die Senatoren der Stadt einst berieten und Gäste bis heute empfangen werden, und die prunkvolle Güldenkammer. Unter dem Gebäude liegt einer der bekanntesten historischen Weinkeller Deutschlands - eine gewölbte Tradition von mehr als 600 Jahren, aus der Zeit, als Bremer Kaufleute über die Weser eingeführte Weine lagerten. Das Glockenspiel im Ostturm erklingt mehrmals täglich über dem Platz."
+      },
+      {
+        "title": "Die Bremer Stadtmusikanten - ein Märchen mit lokalen Wurzeln",
+        "content": "Esel, Hund, Katze und Hahn ziehen nach Bremen, um Stadtmusikanten zu werden - die Brüder Grimm haben diese Erzählung aus mündlicher Überlieferung gesammelt. Seit 1953 steht die Bronzeskulptur von Gerhard Marcks an der Westseite des Rathauses. Der Volksbrauch besagt: Wer dem Esel die Nase und die Vorderhufe reibt, kehrt eines Tages nach Bremen zurück. Schauen Sie genau hin: Die Nase des Esels glänzt bereits von den vielen Händen, die ihn besucht haben. Auch als Treffpunkt für geführte Stadtrundgänge ist die Statue beliebt."
+      },
+      {
+        "title": "Die Legende der Gräfin Emma - ein Geschenk von Weideland",
+        "content": "Eine der ältesten Bremer Legenden erzählt von der adeligen Witwe Emma von Lesum, die für ihre Großzügigkeit geliebt wurde. Als sie den Bürgern so viel Weideland versprach, wie ein Mann in einer Stunde umschreiten könne, schickte ihr Schwager, ein Herzog, listig einen Bettler, der nicht gehen konnte. Gräfin Emma segnete den Mann - und er kroch erstaunlich weit. So entstand die Bürgerweide. Die Geschichte gilt bis heute als Beispiel für Bremens bürgerliche Tradition der Fairness gegenüber dem einfachen Volk, und der Name Bürgerweide lebt bis heute im Stadtbild fort."
+      }
+    ],
+    "verify": "Zum Weiterlesen werden offizielle Quellen empfohlen: das UNESCO-Welterbezentrum, das Bremer Welterbe-Büro (welterbe.bremen.de) und das offizielle Tourismusportal der Stadt."
+  },
   "basicInfo": {
     "title": "Grundinformationen",
     "officialName": "Offizieller Name",
@@ -75,7 +216,7 @@
     "plusCode": "Plus Code",
     "plusCodeValue": "3RG4+7V Bremen Deutschland",
     "phone": "Telefon",
-    "phoneValue": "+49421321676"
+    "phoneValue": "+49 421 321676"
   },
   "hours": {
     "title": "Öffnungszeiten",
@@ -87,7 +228,7 @@
     "winter": "St. Petri Dom",
     "winterTime": "In der Regel 10:00-17:00 Uhr",
     "warning": "Platzveranstaltungen & Märkte",
-    "warningTime": "Jeden Mittwoch und Samstag freier Markt, berühmter Weihnachtsmarkt während der Adventszeit",
+    "warningTime": "Wochenmarkt an den meisten Wochentagen vormittags auf dem benachbarten Domshof; während der Adventszeit füllt der berühmte Weihnachtsmarkt den Platz",
     "tip": "Frühe Morgenstunden und späte Nachmittage sind die friedlichsten Zeiten, perfekt für Spaziergänge und Fotografie"
   },
   "tickets": {
@@ -211,7 +352,8 @@
       "Platzsonnenuntergang"
     ],
     "viewAll": "Weitere Fotos auf Google Maps ansehen",
-    "showAllPhotos": "Alle Fotos anzeigen"
+    "showAllPhotos": "Alle Fotos anzeigen",
+    "credit": "Bildnachweis & Copyright: Alle auf dieser Website gezeigten Fotos sind Eigentum der jeweiligen Fotografen und unterliegen deren Urheberrecht. Bitte kontaktieren Sie uns vor einer Weiterverwendung."
   },
   "reviews": {
     "title": "Besucherbewertungen",
@@ -269,8 +411,9 @@
     ]
   },
   "mapSection": {
-    "title": "Verkehrsführer",
-    "subtitle": "Am Markt 2, 28195 Bremen, Deutschland",
+    "title": "Lage & interaktive Karte",
+    "subtitle": "Der Bremer Marktplatz liegt im Herzen der Bremer Altstadt. Nutzen Sie die Karte und die folgenden Angaben, um Ihren Besuch zu planen.",
+    "visitTitle": "Besuchen Sie den Bremer Marktplatz",
     "openMaps": "Auf Google Maps ansehen"
   },
   "footer": {
@@ -309,7 +452,73 @@
         "url": "https://www.auswaertiges-amt.de/"
       }
     },
-    "disclaimer": "Diese Website ist ein unabhängiges Reiseinformationsprojekt von Dritten. Wir haben keine Verbindung zur lokalen Regierung oder anderen offiziellen Einrichtungen."
+    "disclaimer": "Diese Website ist ein unabhängiges Reiseinformationsprojekt von Dritten. Wir haben keine Verbindung zur lokalen Regierung oder anderen offiziellen Einrichtungen.",
+    "imageCredit": "Bildrechte: Alle auf dieser Website gezeigten Fotos sind Eigentum der jeweiligen Fotografen und urheberrechtlich geschützt."
+  },
+  "faq": {
+    "title": "Häufige Fragen",
+    "lead": "Kurze Antworten auf die Fragen, die Besucher zum Bremer Marktplatz am häufigsten stellen.",
+    "items": [
+      {
+        "q": "Wo liegt der Bremer Marktplatz?",
+        "a": "Der Bremer Marktplatz liegt im Herzen der Bremer Altstadt, umgeben vom UNESCO-Welterbe Rathaus und der Roland-Statue sowie der St. Petri Dom ist nur wenige Schritte entfernt. Vom Hauptbahnhof erreichen Sie den Platz zu Fuß in etwa 10–15 Minuten oder bequem mit der Straßenbahn und dem Bus."
+      },
+      {
+        "q": "Ist der Marktplatz kostenlos zugänglich?",
+        "a": "Ja. Der Marktplatz ist ein öffentlicher, frei zugänglicher Raum und kann ganzjährig und rund um die Uhr kostenlos besichtigt werden. Die umliegenden Gebäude sind eigene Einrichtungen: Der Eintritt in den St. Petri Dom ist in der Regel frei, während Führungen durch das Rathaus und den berühmten Ratskeller Eintritt oder eine Führungsgebühr kosten können."
+      },
+      {
+        "q": "Welche Öffnungszeiten gelten für den Platz und die Sehenswürdigkeiten?",
+        "a": "Der Marktplatz selbst ist rund um die Uhr geöffnet. Die einzelnen Sehenswürdigkeiten haben eigene Zeiten: Dom, Rathausführungen, Ratskeller und Museen öffnen zu unterschiedlichen Zeiten und können an Feiertagen geschlossen sein. Aktuelle Öffnungszeiten veröffentlicht die offizielle Bremen-Tourismus-Seite im Abschnitt Quellen."
+      },
+      {
+        "q": "Wann findet der Bremer Weihnachtsmarkt statt?",
+        "a": "Der traditionelle Weihnachtsmarkt auf dem Bremer Marktplatz findet jedes Jahr statt, meist von der letzten Novemberwoche bis zum 22. oder 23. Dezember, auf dem Platz und in den angrenzenden Straßen. Die genauen Termine ändern sich jährlich – bitte erfragen Sie die Daten für Ihr Reisejahr bei Bremen Tourismus."
+      },
+      {
+        "q": "Welche Sehenswürdigkeiten liegen rund um den Platz?",
+        "a": "In wenigen Gehminuten erreichen Sie das UNESCO-Welterbe Rathaus und die Roland-Statue, den backsteingotischen St. Petri Dom, das historische Schütting-Gildenhaus und das Denkmal der Bremer Stadtmusikanten. Auch die Böttcherstraße und das Schnoor-Viertel liegen ganz in der Nähe."
+      },
+      {
+        "q": "Gibt es in der Nähe öffentliche Toiletten und Parkmöglichkeiten?",
+        "a": "Öffentliche Toiletten finden Sie in der Innenstadt, meist gegen eine kleine Münzgebühr; viele Cafés und Restaurants lassen Gäste ihre Einrichtungen nutzen. Parkhäuser befinden sich am Rande der Altstadt, und Park-and-Ride-Plätze am Stadtrand sind an die Straßenbahn angebunden. Details finden Sie im Abschnitt Service & Einrichtungen."
+      },
+      {
+        "q": "Wann ist die beste Zeit für einen Besuch und Fotos?",
+        "a": "Am frühen Morgen ist es am ruhigsten, und das Licht auf der Rathausfassade ist besonders schön. Abends ist der Platz stimmungsvoll beleuchtet – und zur Weihnachtszeit besonders mit den Lichtern des Marktes. An Wochentagen vormittags bringt zudem der Bauernmarkt Leben auf den nahen Domshof."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Quellen & Referenzen",
+    "lead": "Dieser Reiseführer ist ein unabhängiges, gemeinnütziges Informationsprojekt. Fakten, Geschichte und praktische Hinweise wurden anhand der folgenden offiziellen und kulturellen Quellen geprüft:",
+    "items": [
+      {
+        "org": "Bremen Tourismus – offizielles Besucherportal",
+        "url": "https://www.bremen-tourismus.de/",
+        "desc": "Aktuelle Öffnungszeiten, Veranstaltungen und praktische Besucherinformationen für Bremen."
+      },
+      {
+        "org": "UNESCO-Welterbe – Bremer Rathaus und Roland (welterbe.bremen.de)",
+        "url": "https://www.welterbe.bremen.de/",
+        "desc": "Offizielle Informationen zum Welterbe am Marktplatz."
+      },
+      {
+        "org": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1087/",
+        "desc": "Offizieller Eintrag Nr. 1087 der Welterbeliste – Rathaus und Roland auf dem Marktplatz von Bremen."
+      },
+      {
+        "org": "Landesamt für Denkmalpflege Bremen",
+        "url": "https://www.denkmalpflege.bremen.de/",
+        "desc": "Denkmalfachbehörde für die geschützten Bauten am Bremer Marktplatz."
+      },
+      {
+        "org": "Germany Travel – Deutsche Zentrale für Tourismus",
+        "url": "https://www.germany.travel/en/cities-culture/bremen.html",
+        "desc": "Offizielle Bremen-Seite der Deutschen Zentrale für Tourismus."
+      }
+    ]
   },
   "privacy": {
     "title": "Datenschutzerklärung",
@@ -374,7 +583,7 @@
         {
           "name": "Google Analytics",
           "status": "Aktiv",
-          "description": "Es sammelt anonyme Informationen darüber, wie Besucher unsere Website nutzen."
+          "description": "Es sammelt anonyme Informationen darüber, wie Besucher unsere Website nutzen Mess-ID: G-HXM22WWPKP."
         }
       ]
     },

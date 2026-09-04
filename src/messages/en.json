@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Bremen Market Square | Bremer Marktplatz",
-    "description": "Explore the complete guide to Bremen Market Square in Bremen, Germany. Discover this historic market square and its surrounding attractions."
+    "title": "Bremen Market Square (Bremen) - Visitor Guide, Map & Tips",
+    "description": "Explore Bremen Market Square in Bremen, Germany: UNESCO Town Hall & Roland statue, Christmas market dates, photos, location map, facilities & travel tips for 2026."
   },
   "header": {
     "home": "Home",
@@ -14,9 +14,10 @@
     "title": "Bremen Market Square",
     "subtitle": "Bremen · Germany",
     "rating": "4.7",
-    "reviewCount": "6,271",
+    "reviewCount": "6,489",
     "hours": "Open 24 Hours",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "imageAlt": "Bremen Market Square (Bremer Marktplatz) with the Town Hall in Bremen, Germany"
   },
   "intro": {
     "title": "Explore Bremen Market Square",
@@ -33,11 +34,40 @@
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "World Heritage: Bremen City Hall is one of the most important Gothic and Renaissance buildings in northern Germany, inscribed as a UNESCO World Heritage Site in 1993.",
+        "World Heritage: Bremen City Hall is one of the most important Gothic and Renaissance buildings in northern Germany, inscribed as a UNESCO World Heritage Site in 2004.",
         "Symbol of Freedom: The Bremen Roland statue stands in front of the City Hall, symbolizing the city's freedom and rights, and is an iconic sculpture of Bremen.",
-        "Central Location: Located in the center of Bremen's old town, within walking distance to the Weser River promenade, St. Petri Dom, and other surrounding attractions."
+        "Central Location: Located in the center of Bremen's old town, within walking distance to the Weser River promenade, St. Petri Dom, and other surrounding attractions.",
+        "Explore further: a short walk from the square leads to the Town Musicians statue, the expressionist Böttcherstraße and the historic Schnoor quarter."
       ]
-    }
+    },
+    "geoBreadcrumb": [
+      "Bremen Market Square (Bremer Marktplatz)",
+      "Bremen",
+      "Free Hanseatic City of Bremen",
+      "Germany"
+    ]
+  },
+  "highlights": {
+    "title": "Highlights at Bremen Market Square",
+    "lead": "Four landmarks make Bremer Marktplatz one of the most rewarding town squares in Germany. Here is what to look for when you visit:",
+    "items": [
+      {
+        "title": "Bremen Town Hall & Roland Statue (UNESCO World Heritage)",
+        "content": "The Town Hall on the eastern side of Bremer Marktplatz was built between 1405 and 1410 and is regarded as one of northern Germany's finest Gothic and Weser-Renaissance buildings. In front of its richly ornamented facade stands the 5.5-metre Roland statue of 1404, Germany's oldest surviving free-standing statue of its kind and a symbol of the market and trade freedoms granted to the city. Together, Town Hall and Roland were inscribed on the UNESCO World Heritage List in 2004. The building still serves as the seat of Bremen's government, so join a guided tour to admire the historic Upper Hall and the opulent Golden Chamber."
+      },
+      {
+        "title": "St. Peter's Cathedral (St. Petri Dom)",
+        "content": "The twin towers of St. Peter's Cathedral anchor the north-eastern corner of the square. The present brick basilica grew over five centuries on the site of a 9th-century wooden church, and its Romanesque vaults and Gothic choir can be explored free of charge. Make sure to visit the famous Bleikeller, a lead cellar known for its naturally preserved mummies. Feeling energetic? Climb the southern tower for sweeping views across the red roofs of the old town."
+      },
+      {
+        "title": "The Town Musicians of Bremen (Bremer Stadtmusikanten)",
+        "content": "Since 1953, Gerhard Marcks' bronze sculpture of the donkey, dog, cat and rooster from the Brothers Grimm fairy tale has stood at the western end of the Town Hall. It is one of Bremen's most photographed landmarks - locals believe that rubbing the donkey's nose and front hooves brings good luck, so expect a short queue. The statue is also the natural starting point for a fairy-tale themed walk through the old town."
+      },
+      {
+        "title": "Annual Bremen Christmas Market (Bremer Weihnachtsmarkt)",
+        "content": "From late November each year, Bremer Marktplatz is transformed into one of Germany's most beloved Christmas markets, with more than 170 festively decorated stalls gathered around the Town Hall, the Roland statue and the cathedral. Sip mulled wine (Glühwein), snack on roasted almonds and listen to live choirs beneath the gabled merchants' houses. The market traditionally runs until 23 December, while the nearby Schlachte riverside adds a second stretch of stalls, food stands and fairground rides."
+      }
+    ]
   },
   "knowledge": {
     "title": "Discover the Charm of Bremen Market Square",
@@ -59,6 +89,117 @@
       }
     ]
   },
+  "weather": {
+    "title": "Bremen Weather: Today & 7-Day Forecast",
+    "subtitle": "Current weather outlook for Bremen city centre - handy for planning your time on and around Bremer Marktplatz.",
+    "current": "Right now on the square",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "feelsLike": "Feels like",
+    "wind": "Wind",
+    "humidity": "Humidity",
+    "precipitation": "Precipitation",
+    "forecast": "7-day outlook",
+    "high": "High",
+    "low": "Low",
+    "precipChance": "Rain chance",
+    "updated": "Data status:",
+    "unavailable": "Weather data is temporarily unavailable. Please check a regional weather report before your visit.",
+    "codes": {
+      "0": "Clear sky",
+      "1": "Mainly clear",
+      "2": "Partly cloudy",
+      "3": "Overcast",
+      "45": "Fog",
+      "48": "Depositing rime fog",
+      "51": "Light drizzle",
+      "53": "Drizzle",
+      "55": "Dense drizzle",
+      "56": "Light freezing drizzle",
+      "57": "Dense freezing drizzle",
+      "61": "Light rain",
+      "63": "Rain",
+      "65": "Heavy rain",
+      "66": "Light freezing rain",
+      "67": "Heavy freezing rain",
+      "71": "Light snow",
+      "73": "Snow",
+      "75": "Heavy snow",
+      "77": "Snow grains",
+      "80": "Light rain showers",
+      "81": "Rain showers",
+      "82": "Violent rain showers",
+      "85": "Light snow showers",
+      "86": "Heavy snow showers",
+      "95": "Thunderstorm",
+      "96": "Thunderstorm with slight hail",
+      "99": "Thunderstorm with heavy hail"
+    }
+  },
+  "facilities": {
+    "title": "Practical Information for Visitors",
+    "lead": "Everything you usually want to know before arriving at the square - facilities, costs and local customs. We describe types and typical options, not specific businesses.",
+    "items": [
+      {
+        "id": "toilets",
+        "title": "Public Toilets (WC)",
+        "content": "There are no public toilets directly on the square itself. You will find public restrooms a short walk away: near the central railway station, in larger shopping centres and at some tram stops. In Germany many public WCs are coin-operated (around EUR 0.50-1.00). Cafes and restaurants along the square generally reserve their toilets for guests."
+      },
+      {
+        "id": "parking",
+        "title": "Parking & Parking Garages",
+        "content": "The old town around the square is largely pedestrianised. The easiest option is a public multi-storey car park (Parkhaus) at the edge of the old town, from where the square is a 5-10 minute walk. On-street parking is limited and paid. Parking garages typically charge about EUR 1-2 per hour, while park-and-ride sites at the city entrance are often cheaper. Most garages today also offer electric vehicle charging bays."
+      },
+      {
+        "id": "dining",
+        "title": "Dining & Restaurants",
+        "content": "On and around the square you can choose between traditional North German restaurants, historic cellar restaurants, cafes and bakeries, and simple snack stands. Typical Bremen specialities to try are Labskaus, Knipp or, in winter, Grunkohl with Pinkel. Portions are generous and most places offer vegetarian options. Tables fill quickly on weekend evenings and during the Christmas market, so reservations are recommended in the popular season."
+      },
+      {
+        "id": "accommodation",
+        "title": "Where to Stay",
+        "content": "For a short visit, choose accommodation within walking distance of the old town: historic hotels in the centre, design and business hotels, guesthouses (Pensionen), holiday apartments or hostels. Staying near Bremen Central Station is a practical alternative - the square is about 10 minutes away on foot or by tram. Prices rise noticeably during the Christmas market and major events, so it pays to book early."
+      },
+      {
+        "id": "shopping",
+        "title": "Supermarkets & Daily Shopping",
+        "content": "Shops in the old town are generally open Monday to Saturday (supermarkets often until about 20:00-22:00, smaller shops usually until 18:00-20:00); most are closed on Sundays and public holidays. For groceries and everyday items you will find supermarkets and drugstores on the main shopping streets around the square. A farmers' market with fresh regional produce takes place on most weekday mornings on the neighbouring Domshof square, directly behind the cathedral."
+      },
+      {
+        "id": "fuel",
+        "title": "Fuel & Electric Charging",
+        "content": "The pedestrianised old town has no petrol stations; the nearest are on the ring road and main access roads, about 5-10 minutes away by car. If you drive an electric car, charging points can be found in many public parking garages and at some on-street spots across the city. Fast-charging and battery swap hubs are mainly located at larger traffic junctions outside the centre. Plan refuelling or charging before entering the medieval core - many streets there are closed to cars."
+      }
+    ],
+    "note": "Please note: prices and opening hours change over time. Always check official city information before you travel - this page provides general guidance only."
+  },
+  "story": {
+    "title": "History, Background & Legends",
+    "lead": "More than a thousand years of Bremen history have left their traces in and around this square. A little background turns a stroll across the cobbles into a journey through time.",
+    "items": [
+      {
+        "title": "From market rights to Hanseatic city",
+        "content": "In 965, the East Frankish ruler Otto I granted Bremen the right to hold a market - the foundation on which today's square grew. The settlement on the Weser became a major trading city and, from the 14th century, a member of the Hanseatic League, whose merchants built the gabled houses that still frame the square. Today's Town Hall was erected between 1405 and 1410 and has served as the seat of Bremen's government ever since, making it one of the oldest town halls in Germany still in political use."
+      },
+      {
+        "title": "The Roland statue and the legend of Bremen's freedom",
+        "content": "Since 1404, the statue of the legendary knight Roland has stood in front of the Town Hall. Roland - said to be a nephew of Charlemagne - had become the medieval symbol of municipal rights: a hero who stood up for the freedom of the citizens. With his drawn sword he guards the square, and a Bremen saying goes: as long as Roland stands, the city will remain free. The figure itself is about 5.5 metres tall; together with its canopy the monument reaches roughly 10 metres. Since 2004 the Roland, together with the Town Hall, is a UNESCO World Heritage Site."
+      },
+      {
+        "title": "The Town Hall - facade, halls and an old wine cellar",
+        "content": "Behind the richly decorated Gothic and Weser-Renaissance facade, the Town Hall hides two highlights that are usually only visible on a guided tour: the historic Upper Hall, where the city's senators once deliberated and guests are still received today, and the sumptuous Golden Chamber. Beneath the building lies one of the best-known historic wine cellars in Germany - a vaulted tradition that has continued for more than 600 years, ever since Bremen merchants stored wine brought up the Weser from the Rhine region. The carillon in the east tower rings out over the square several times a day."
+      },
+      {
+        "title": "The Town Musicians - a fairytale with local roots",
+        "content": "Donkey, dog, cat and rooster set out for Bremen to become town musicians - the Brothers Grimm collected this story from oral tradition. Since 1953, the bronze sculpture by Gerhard Marcks has stood at the west side of the Town Hall. Local custom says that anyone who rubs the donkey's nose and front hooves will one day return to Bremen. Look closely: the donkey's nose is already shiny from the many hands that have come to visit. The statue is also a popular meeting point for guided city walks."
+      },
+      {
+        "title": "The legend of Countess Emma - a gift of pasture",
+        "content": "One of Bremen's oldest legends tells of the noble widow Emma of Lesum, who was loved for her generosity. When she promised the citizens as much pasture as a man could walk around in one hour, her brother-in-law, a duke, cunningly sent a beggar who could not walk. Countess Emma blessed the man - and he crawled surprisingly far. This is how the Buergerweide (citizens' meadow) came into being. The tale is still remembered as an example of Bremen's civic tradition of fairness towards ordinary people, and the name Buergerweide lives on in the city to this day."
+      }
+    ],
+    "verify": "For further reading, official sources are recommended: the UNESCO World Heritage Centre, Bremen's World Heritage office (welterbe.bremen.de) and the city's official tourism portal."
+  },
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
@@ -75,7 +216,7 @@
     "plusCode": "Plus Code",
     "plusCodeValue": "3RG4+7V Bremen Germany",
     "phone": "Phone",
-    "phoneValue": "+49421321676"
+    "phoneValue": "+49 421 321676"
   },
   "hours": {
     "title": "Opening Hours",
@@ -87,7 +228,7 @@
     "winter": "St. Petri Dom",
     "winterTime": "Usually 10:00-17:00",
     "warning": "Square Events & Markets",
-    "warningTime": "Open-air market every Wednesday and Saturday, famous Christmas market during the Advent season",
+    "warningTime": "Farmers' market most weekday mornings on the neighbouring Domshof; the famous Christmas market fills the square during Advent",
     "tip": "Early mornings and late afternoons are the most peaceful times, perfect for walking and photography"
   },
   "tickets": {
@@ -211,7 +352,8 @@
       "Square Sunset"
     ],
     "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
+    "showAllPhotos": "Show All Photos",
+    "credit": "Image credit & copyright: All photos displayed on this website are the property of their respective photographers and remain subject to their copyright. Please contact us for permission before republishing."
   },
   "reviews": {
     "title": "Visitor Reviews",
@@ -269,8 +411,9 @@
     ]
   },
   "mapSection": {
-    "title": "Transportation Guide",
-    "subtitle": "Am Markt 2, 28195 Bremen, Germany",
+    "title": "Location & Interactive Map",
+    "subtitle": "Bremen Market Square (Bremer Marktplatz) sits in the heart of Bremen's old town. Use the map and the details below to plan your visit.",
+    "visitTitle": "Visit Bremer Marktplatz",
     "openMaps": "View on Google Maps"
   },
   "footer": {
@@ -309,7 +452,73 @@
         "url": "https://www.auswaertiges-amt.de/"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "imageCredit": "Image rights: all photos shown on this website are the property of and copyrighted by their original photographers."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "lead": "Quick answers to the questions most visitors ask about Bremen Market Square.",
+    "items": [
+      {
+        "q": "Where is Bremen Market Square located?",
+        "a": "Bremen Market Square (Bremer Marktplatz) lies in the centre of Bremen’s old town, Germany, at Am Markt (postal code 28195). The UNESCO-listed Town Hall and the Roland statue stand beside it, with St. Petri Cathedral just steps away. It is about 10–15 minutes on foot from Bremen Central Station and easy to reach by the city’s tram and bus network."
+      },
+      {
+        "q": "Is the square free to visit?",
+        "a": "Yes. The square is a public, open-air space and can be visited free of charge at any time, all year round. The surrounding historic buildings are separate venues: entering St. Petri Cathedral is generally free, while guided tours of the Town Hall and its famous cellar (Ratskeller) may involve a ticket or tour fee."
+      },
+      {
+        "q": "What are the opening hours of the square and its sights?",
+        "a": "The market square itself is open 24 hours a day. Individual sights follow their own schedules – the Cathedral, Town Hall tours, the Ratskeller and nearby museums open at different times and may close on public holidays. Up-to-date opening hours are published on the official Bremen tourism pages linked in the Sources section below."
+      },
+      {
+        "q": "When does the Bremen Christmas market take place?",
+        "a": "The traditional Christmas market on Bremen Market Square is held every year, usually from the last week of November until 22 or 23 December, in the square and the adjoining streets. Exact dates change from year to year, so please confirm the dates for your travel year with Bremen Tourism."
+      },
+      {
+        "q": "Which landmarks are around the square?",
+        "a": "Within a few minutes’ walk you can see the UNESCO World Heritage Town Hall and Roland statue, the Brick Gothic St. Petri Cathedral, the historic Schütting guild house and the statue of the Town Musicians of Bremen. The Böttcherstraße and the Schnoor quarter are also close by."
+      },
+      {
+        "q": "Are there public toilets and parking facilities nearby?",
+        "a": "Public toilets are available in the city centre, usually operated for a small coin fee; many cafés and restaurants also let guests use their facilities. Parking garages are located around the edge of the old town, and park-and-ride lots on the outskirts connect to the tram network. Please see the Practical Facilities section above for details."
+      },
+      {
+        "q": "When is the best time to visit and take photos?",
+        "a": "Early morning is the quietest time and offers beautiful light on the Town Hall facade. In the evening, the square is pleasantly lit – and during the Christmas season the market lights make it particularly atmospheric. Weekday mornings are also when the regional produce market brings life to the nearby Domshof."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "lead": "This guide is produced by an independent, non-profit visitor information project. Facts, history and practical details are checked against the following official and cultural sources:",
+    "items": [
+      {
+        "org": "Bremen Tourism – official visitor portal",
+        "url": "https://www.bremen-tourismus.de/",
+        "desc": "Current opening times, events and practical visitor information for Bremen."
+      },
+      {
+        "org": "UNESCO World Heritage – Bremen Town Hall and Roland (welterbe.bremen.de)",
+        "url": "https://www.welterbe.bremen.de/",
+        "desc": "Official information about the World Heritage site on the market square."
+      },
+      {
+        "org": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1087/",
+        "desc": "Official World Heritage List entry No. 1087 – Town Hall and Roland on the Marketplace of Bremen."
+      },
+      {
+        "org": "State Office for the Preservation of Monuments Bremen",
+        "url": "https://www.denkmalpflege.bremen.de/",
+        "desc": "Heritage authority responsible for the protected monuments of the Bremen market square."
+      },
+      {
+        "org": "Germany Travel – German National Tourist Board",
+        "url": "https://www.germany.travel/en/cities-culture/bremen.html",
+        "desc": "Official city page for Bremen by the German National Tourist Board."
+      }
+    ]
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -374,7 +583,7 @@
         {
           "name": "Google Analytics",
           "status": "Active",
-          "description": "It collects anonymous information about how visitors use our website."
+          "description": "It collects anonymous information about how visitors use our website Measurement ID: G-HXM22WWPKP."
         }
       ]
     },

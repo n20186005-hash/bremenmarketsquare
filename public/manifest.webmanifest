@@ -1,0 +1,33 @@
+{
+  "name": "Bremen Market Square (Bremer Marktplatz) - Visitor Guide",
+  "short_name": "Bremen Sq.",
+  "description": "Independent visitor guide to Bremen Market Square (Bremer Marktplatz): history, legends, practical info, weather, photos and location map.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#3a7a8d",
+  "background_color": "#faf8f4",
+  "categories": ["travel", "education"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

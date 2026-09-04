@@ -1,9 +1,10 @@
 import { MetadataRoute } from 'next';
+import { siteUrl } from '@/lib/site';
 
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://bremenmarketsquare.com';
+  const baseUrl = siteUrl;
   const locales = ['zh', 'en', 'de'];
   const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
 

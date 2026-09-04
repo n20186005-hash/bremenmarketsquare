@@ -69,8 +69,17 @@ export default function CookieSettingsClient() {
     } catch {}
   }, []);
 
+  function notifyAnalyticsConsent(allowed: boolean) {
+    // Defined by the consent + GA4 snippet in the locale layout head.
+    const win = window as any;
+    if (typeof win.__gaConsent === 'function') {
+      win.__gaConsent(allowed);
+    }
+  }
+
   function handleSave() {
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, preferences, marketing }));
+    notifyAnalyticsConsent(analytics);
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   }
@@ -80,6 +89,7 @@ export default function CookieSettingsClient() {
     setPreferences(false);
     setMarketing(false);
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics: false, preferences: false, marketing: false }));
+    notifyAnalyticsConsent(false);
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   }

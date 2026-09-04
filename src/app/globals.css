@@ -88,6 +88,14 @@ h1, h2, h3, h4, h5, h6 {
   display: none !important;
 }
 
+/* FAQ <details> summary marker */
+summary {
+  list-style: none;
+}
+summary::-webkit-details-marker {
+  display: none;
+}
+
 /* Map container */
 .map-container iframe {
   border: 0;

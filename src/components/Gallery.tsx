@@ -60,6 +60,7 @@ export default function Gallery() {
                     className="w-full h-full object-cover rounded-lg"
                     style={{ minHeight: i === 0 ? '400px' : '180px' }}
                     loading="lazy"
+                    decoding="async"
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
@@ -90,6 +91,12 @@ export default function Gallery() {
                 {t('viewAll')}
               </a>
             </div>
+            <p
+              className="mt-10 text-xs text-center leading-relaxed"
+              style={{ color: 'var(--text-muted)' }}
+            >
+              {t('credit')}
+            </p>
           </div>
         </div>
       </section>
