@@ -1,4 +1,7 @@
-import { getTranslations, getMessages } from 'next-intl/server';
+'use client';
+
+import { useLocale, useTranslations } from 'next-intl';
+import { useEffect, useState } from 'react';
 
 const LATITUDE = 53.0757432;
 const LONGITUDE = 8.8071942;
@@ -23,18 +26,6 @@ type WeatherData = {
     precipitation_probability_max: (number | null)[];
   };
 };
-
-async function fetchWeather(): Promise<WeatherData | null> {
-  try {
-    const res = await fetch(API_URL, { signal: AbortSignal.timeout(8000) });
-    if (!res.ok) return null;
-    const json = (await res.json()) as WeatherData;
-    if (!json?.current || !json?.daily) return null;
-    return json;
-  } catch {
-    return null;
-  }
-}
 
 function iconForCode(code: number): string {
   if (code === 0 || code === 1) return 'sun';
@@ -145,11 +136,30 @@ function formatUpdatedAt(locale: string, isoTime: string) {
   return `${formattedDate}, ${timePart.slice(0, 5)}`;
 }
 
-export default async function WeatherPanel({ locale }: { locale: 'zh' | 'en' | 'de' }) {
-  const t = await getTranslations({ locale, namespace: 'weather' });
-  const messages = (await getMessages({ locale })) as any;
-  const codes = (messages?.weather?.codes || {}) as Record<string, string>;
-  const data = await fetchWeather();
+export default function WeatherPanel({ locale }: { locale: 'zh' | 'en' | 'de' }) {
+  const t = useTranslations('weather');
+  const activeLocale = (useLocale() as 'zh' | 'en' | 'de') || locale;
+  const [data, setData] = useState<WeatherData | null>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch(API_URL)
+      .then((res) => (res.ok ? res.json() : Promise.reject()))
+      .then((json: WeatherData) => {
+        if (cancelled) return;
+        if (json?.current && json?.daily) setData(json);
+        setLoading(false);
+      })
+      .catch(() => {
+        if (!cancelled) setLoading(false);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const loc = activeLocale;
 
   return (
     <section id="weather" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -165,7 +175,14 @@ export default async function WeatherPanel({ locale }: { locale: 'zh' | 'en' | '
         </p>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
-        {!data ? (
+        {loading ? (
+          <div
+            className="rounded-xl p-6"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+          >
+            <p style={{ color: 'var(--text-secondary)' }}>{t('loading')}</p>
+          </div>
+        ) : !data ? (
           <div
             className="rounded-xl p-6"
             style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
@@ -188,7 +205,7 @@ export default async function WeatherPanel({ locale }: { locale: 'zh' | 'en' | '
                     {Math.round(data.current.temperature_2m)}°C
                   </p>
                   <p className="text-sm mt-2" style={{ color: 'var(--text-secondary)' }}>
-                    {codes[String(data.current.weather_code)] || ''}
+                    {t(`codes.${data.current.weather_code}`) || ''}
                   </p>
                 </div>
               </div>
@@ -222,7 +239,7 @@ export default async function WeatherPanel({ locale }: { locale: 'zh' | 'en' | '
                     }}
                   >
                     <p className="text-xs font-medium mb-2 truncate" style={{ color: 'var(--text-secondary)' }}>
-                      {formatDayLabel(locale, day, i, t('today'), t('tomorrow'))}
+                      {formatDayLabel(loc, day, i, t('today'), t('tomorrow'))}
                     </p>
                     <div className="flex justify-center mb-2" style={{ color: 'var(--accent)' }}>
                       <WeatherGlyph kind={iconForCode(code)} />
@@ -239,7 +256,7 @@ export default async function WeatherPanel({ locale }: { locale: 'zh' | 'en' | '
             </div>
 
             <p className="text-xs mt-6" style={{ color: 'var(--text-muted)' }}>
-              {t('updated')} {formatUpdatedAt(locale, data.current.time)}
+              {t('updated')} {formatUpdatedAt(loc, data.current.time)}
             </p>
           </div>
         )}
