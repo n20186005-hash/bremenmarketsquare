@@ -4,10 +4,16 @@
  * 全站所有绝对 URL —— canonical / hreflang / Open Graph / JSON-LD /
  * sitemap / robots —— 必须经由 siteUrl 派生，禁止在组件/工具中硬编码域名。
  *
- * 部署时通过环境变量 CURRENT_SITE_DOMAIN 覆盖（裸域名，不含协议）。
+ * 规范域名统一为 www.bremenmarketsquare.com（含 www）。部署时通过环境变量
+ * CURRENT_SITE_DOMAIN 覆盖（可含 www 的裸域名，不含协议）。
  * 未设置时回退到默认域名，保证本地与预览环境仍可运行。
+ *
+ * 配套 Cloudflare 控制台配置（代码层无法完成 301）：
+ *   1) 确保 www 与裸域 DNS 均指向本 Worker；
+ *   2) 添加 Redirect Rule：裸域(http/https) → https://www.bremenmarketsquare.com（308）；
+ *   3) 开启 Always Use HTTPS。
  */
-const DEFAULT_DOMAIN = 'bremenmarketsquare.com';
+const DEFAULT_DOMAIN = 'www.bremenmarketsquare.com';
 
 const domain = process.env.CURRENT_SITE_DOMAIN?.trim() || DEFAULT_DOMAIN;
 

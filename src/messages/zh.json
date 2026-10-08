@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "不来梅市场广场 (Bremer Marktplatz) 旅游指南与地图",
+    "title": "不来梅集市广场（Bremer Marktplatz）旅游攻略、交通与景点",
     "description": "探索不来梅市场广场 (Bremer Marktplatz)：市政厅、罗兰雕像、圣诞市集、照片、地图与 2026 年旅行攻略。"
   },
   "header": {
@@ -14,7 +14,7 @@
     "title": "Bremen Market Square",
     "subtitle": "不来梅 · 德国",
     "rating": "4.7",
-    "reviewCount": "6,489",
+    "reviewCount": "6,561",
     "hours": "全天开放",
     "openMaps": "查看位置",
     "imageAlt": "德国不来梅市场广场（Bremer Marktplatz）与不来梅市政厅"
@@ -104,6 +104,7 @@
     "low": "最低",
     "precipChance": "降雨概率",
     "updated": "数据时间：",
+    "loading": "正在加载实时天气…",
     "unavailable": "天气数据暂时不可用，出行前请查看当地气象信息。",
     "codes": {
       "0": "晴",
@@ -216,7 +217,7 @@
     "plusCode": "Plus 代码",
     "plusCodeValue": "3RG4+7V 不来梅 德国",
     "phone": "电话",
-    "phoneValue": "+49 421 321676"
+    "phoneValue": "+49 421 3080010"
   },
   "hours": {
     "title": "开放时间",

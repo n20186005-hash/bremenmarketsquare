@@ -14,7 +14,7 @@
     "title": "Bremer Marktplatz",
     "subtitle": "Bremen · Deutschland",
     "rating": "4.7",
-    "reviewCount": "6.489",
+    "reviewCount": "6.561",
     "hours": "24 Stunden geöffnet",
     "openMaps": "Standort ansehen",
     "imageAlt": "Bremer Marktplatz mit dem Rathaus in Bremen, Deutschland"
@@ -104,6 +104,7 @@
     "low": "Min",
     "precipChance": "Regenrisiko",
     "updated": "Datenstand:",
+    "loading": "Aktuelle Wetterdaten werden geladen…",
     "unavailable": "Die Wetterdaten sind momentan nicht verfügbar. Bitte prüfen Sie vor Ihrem Besuch einen regionalen Wetterbericht.",
     "codes": {
       "0": "Klarer Himmel",
@@ -216,7 +217,7 @@
     "plusCode": "Plus Code",
     "plusCodeValue": "3RG4+7V Bremen Deutschland",
     "phone": "Telefon",
-    "phoneValue": "+49 421 321676"
+    "phoneValue": "+49 421 3080010"
   },
   "hours": {
     "title": "Öffnungszeiten",

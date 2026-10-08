@@ -48,7 +48,7 @@ export async function generateMetadata({
         'zh': zhUrl,
         'en': enUrl,
         'de': deUrl,
-        'x-default': zhUrl,
+        'x-default': enUrl,
       } as Record<string, string>,
     },
     openGraph: {

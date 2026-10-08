@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Bremen Market Square (Bremen) - Visitor Guide, Map & Tips",
-    "description": "Explore Bremen Market Square in Bremen, Germany: UNESCO Town Hall & Roland statue, Christmas market dates, photos, location map, facilities & travel tips for 2026."
+    "title": "Bremen Market Square (Bremer Marktplatz) – Visitor Guide & Map",
+    "description": "Explore Bremen Market Square, the historic Town Hall and Roland statue. Find directions, free visiting information, photo spots and local travel tips."
   },
   "header": {
     "home": "Home",
@@ -14,7 +14,7 @@
     "title": "Bremen Market Square",
     "subtitle": "Bremen · Germany",
     "rating": "4.7",
-    "reviewCount": "6,489",
+    "reviewCount": "6,561",
     "hours": "Open 24 Hours",
     "openMaps": "View Location",
     "imageAlt": "Bremen Market Square (Bremer Marktplatz) with the Town Hall in Bremen, Germany"
@@ -104,6 +104,7 @@
     "low": "Low",
     "precipChance": "Rain chance",
     "updated": "Data status:",
+    "loading": "Loading current weather…",
     "unavailable": "Weather data is temporarily unavailable. Please check a regional weather report before your visit.",
     "codes": {
       "0": "Clear sky",
@@ -216,7 +217,7 @@
     "plusCode": "Plus Code",
     "plusCodeValue": "3RG4+7V Bremen Germany",
     "phone": "Phone",
-    "phoneValue": "+49 421 321676"
+    "phoneValue": "+49 421 3080010"
   },
   "hours": {
     "title": "Opening Hours",

@@ -2,7 +2,7 @@ import { useTranslations } from 'next-intl';
 import type { CSSProperties, ReactNode } from 'react';
 
 const GMAPS_LINK = 'https://maps.app.goo.gl/MNMKZRjaTAC3cVVp9';
-const TEL_LINK = 'tel:+49421321676';
+const TEL_LINK = 'tel:+494213080010';
 const MAP_EMBED_SRC =
   'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3386.2711187718587!2d8.807194200000001!3d53.0757432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b12810a1af1175%3A0x4843d63c54b934e0!2sBremen%20Market%20Square!5e1!3m2!1sen!2s!4v1788533932867!5m2!1sen!2s';
 

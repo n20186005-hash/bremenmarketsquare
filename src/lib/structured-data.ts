@@ -43,7 +43,7 @@ export function buildTouristAttractionJsonLd(locale: Locale) {
     image: [HERO_IMAGE],
     isAccessibleForFree: true,
     publicAccess: true,
-    telephone: '+49421321676',
+    telephone: '+494213080010',
     address: {
       '@type': 'PostalAddress',
       streetAddress: 'Am Markt 2',
@@ -77,7 +77,7 @@ export function buildTouristAttractionJsonLd(locale: Locale) {
       '@type': 'AggregateRating',
       ratingValue: '4.7',
       bestRating: '5',
-      reviewCount: '6489',
+      reviewCount: '6561',
     },
     sameAs: [
       'https://whc.unesco.org/en/list/1087/',

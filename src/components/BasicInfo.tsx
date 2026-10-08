@@ -3,7 +3,7 @@
 import { useTranslations } from 'next-intl';
 
 const GMAPS_LINK = 'https://maps.app.goo.gl/MNMKZRjaTAC3cVVp9';
-const TEL_LINK = 'tel:+49421321676';
+const TEL_LINK = 'tel:+494213080010';
 
 export default function BasicInfo() {
   const t = useTranslations('basicInfo');
